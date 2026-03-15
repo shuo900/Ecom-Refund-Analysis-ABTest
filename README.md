@@ -1,4 +1,4 @@
-# 🛒 电商大促营销策略异常诊断与 A/B Test 归因分析
+# 🛒 基于 Python+SQL+Tableau 的电商大促营销策略异常诊断与 A/B Test 归因分析
 
 > **技术栈**：SQL (多表关联/指标计算) | Python (NLP/统计检验) | Tableau (Pareto建模/多维可视化)
 
